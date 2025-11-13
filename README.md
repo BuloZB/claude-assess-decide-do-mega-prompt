@@ -1,3 +1,5 @@
+![Supercharging Claude with the Assess-Decide-Do Framework](assets/hero-claude-mega-prompt.png)
+
 # Supercharging Claude with the Assess-Decide-Do Framework
 
 A comprehensive integration that teaches Claude to operate with deep awareness of the Assess-Decide-Do (ADD) life management framework, creating smoother workflows, clearer thinking, and surprisingly empathic AI interactions.
