@@ -24,7 +24,7 @@ Unlike traditional productivity systems focused solely on task completion, ADD e
 - [The Assess Stage](https://www.dragosroua.com/assess-decide-do-stages-assess/)
 - [The Decide Stage](https://www.dragosroua.com/assess-decide-do-stages-decide/)
 - [The Do Stage](https://www.dragosroua.com/assess-decide-do-stages-do/)
-- [addTaskManager App](https://addtaskmanager.com) - iOS/macOS app implementing ADD
+- [addTaskManager App](https://itunes.apple.com/app/apple-store/id1492487688?mt=8) - iOS/macOS app implementing ADD
 
 ## What This Integration Brings
 
@@ -316,7 +316,7 @@ The framework adapts to different contexts:
 
 ### Integration with addTaskManager
 
-If you use the [addTaskManager app](https://addtaskmanager.com), you can achieve even deeper integration:
+If you use the [addTaskManager app](https://itunes.apple.com/app/apple-store/id1492487688?mt=8), you can achieve even deeper integration:
 
 - Claude can interact with your ADD-structured task system via MCP server
 - Maintains realm boundaries programmatically
@@ -390,11 +390,11 @@ For deep philosophical exploration, see [`docs/ADD_PHILOSOPHY.md`](docs/ADD_PHIL
 
 **External Resources**:
 - [Dragos Roua's Blog](https://dragosroua.com) - Original framework writing
-- [addTaskManager](https://addtaskmanager.com) - iOS/macOS app implementation
+- [addTaskManager](https://itunes.apple.com/app/apple-store/id1492487688?mt=8) - iOS/macOS app implementation
 - [ADD MCP Server](https://github.com/dragosroua/addtaskmanager-mcp-server) - Claude Desktop integration
 
 **Community**:
-- Blog post: [Supercharging Claude with the Assess-Decide-Do Framework](https://dragosroua.com) *(coming soon)*
+- Blog post: [Supercharging Claude with the Assess-Decide-Do Framework](https://wp.dragosroua.com/supercharging-claude-with-the-assess-decide-do-framework-mega-prompt-inside/)
 - Discussions: Open GitHub issues for questions and insights
 
 ## License
